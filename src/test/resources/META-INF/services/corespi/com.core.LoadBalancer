@@ -1,0 +1,2 @@
+random = com.core.RandomLoadBalancer
+hasArgs = com.core.HasArgsLoadBalancer
